@@ -1,14 +1,14 @@
 {
   "author": "kcwu",
   "status": "stable",
-  "name": "moedict-process",
-  "description": "parser and format convertor for dictionary data from Ministry of Education",
-  "description_zh": "教育部重編國語辭典 資料處理",
+  "name": "moedict-data",
+  "description": "Parsed dictionary data from Ministry of Education",
+  "description_zh": "教育部重編國語辭典 資料檔",
   "homepage": "http://3du.tw/",
   "document": "https://github.com/g0v/moedict-process/wiki",
   "repository": {
     "type": "git",
-    "url": "https://github.com/g0v/moedict-process"
+    "url": "https://github.com/g0v/moedict-data"
   },
   "licenses": [
     {
@@ -17,8 +17,7 @@
   ],
   "keywords": [
     "dictionary",
-    "python",
-    "parser"
+    "json"
   ],
   "audience": [
     "developer"
@@ -30,11 +29,9 @@
     "3du"
   ],
   "contributors": [
-    "albb0920",
     "au",
     "kcwu",
-    "pingooo",
-    "viirya"
+    "poga"
   ],
   "needs": [
   ]

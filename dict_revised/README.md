@@ -3,7 +3,7 @@ dict_revised
 
 This is the mirror of http://resources.publicense.moe.edu.tw/dict_reviseddict_download.html
 
-Version: dict_revised_2015_20151208
+Version: dict_revised_2015_20160523
 
 =====
 

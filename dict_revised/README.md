@@ -1,9 +1,9 @@
 dict_revised
 ============
 
-This is the mirror of http://resources.publicense.moe.edu.tw/dict_reviseddict_download.html
+This is the mirror of https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/dict_reviseddict_download.html
 
-Version: dict_revised_2015_20160523
+Version: dict_revised_2015_20220922
 
 =====
 

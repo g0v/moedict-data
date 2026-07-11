@@ -1,0 +1,25 @@
+{
+  "name": "moedict-historical-scripts",
+  "version": "v2",
+  "archive": "historical-scripts-v2.tar.zst",
+  "archiveSha256": "cfc06cd04c3ac59faf1f18070da09f687fdd43832c0d14bf2937e011e52e7458",
+  "archiveBytes": 766470379,
+  "archiveBuild": "COPYFILE_DISABLE=1 tar + zstd -T0 -19 (macOS metadata/xattrs disabled)",
+  "status": "staged-for-release",
+  "licenseStatus": "inferred-from-unlinked-site-badge-not-confirmed-in-writing",
+  "source": "https://bs.chinese-linguipedia.org/api/web/word/",
+  "supersedes": "historical-scripts-v1.json",
+  "changeFromV1": "unified every successful mirrored asset to lossless WebP (cwebp -lossless -m 6 -exact for JPEG/PNG/BMP-mislabeled stills; gif2webp -min_size -m 6 -mt unchanged for GIF animations); v1 used jpegtran for JPEG previews and oxipng for PNG sources",
+  "mediaTotals": {
+    "successfulAssets": 46934,
+    "failedAssets": 63,
+    "fetchedBytes": 6166327206,
+    "optimizedWebpBytes": 835961668
+  },
+  "citationOverride": {
+    "raw": "集成6500(鼓作父辛觶)",
+    "corrected": "集成6500(鼓𦎫作父辛觶)",
+    "codePoint": "U+263AB",
+    "evidence": "https://zdic.net/hans/%E9%BC%93"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "moedict-historical-scripts",
+  "version": "v1",
+  "archive": "historical-scripts-v1.tar.zst",
+  "archiveSha256": "ae39c481089bdc651df345a9d6847f606646e416cb25850565c31c3b4b88e285",
+  "archiveBytes": 717701173,
+  "status": "staged-for-release",
+  "licenseStatus": "inferred-from-unlinked-site-badge-not-confirmed-in-writing",
+  "source": "https://bs.chinese-linguipedia.org/api/web/word/",
+  "citationOverride": {
+    "raw": "集成6500(鼓作父辛觶)",
+    "corrected": "集成6500(鼓𦎫作父辛觶)",
+    "codePoint": "U+263AB",
+    "evidence": "https://zdic.net/hans/%E9%BC%93"
+  }
+}

@@ -1,0 +1,2 @@
+# Large historical-scripts release payloads are attached to releases, not committed as Git blobs.
+releases/*.tar.zst
